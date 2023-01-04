@@ -170,8 +170,8 @@ i:hover{
 .preloader{
     width: 5vw;
     height: 5vw;
-    border: 0.25vw solid #003399;
-    border-top-color: #FFFFFF;
+    border: 0.75vw solid #0470dc;
+    border-top-color: #EEEEEE;
     border-radius:  50vh;
     animation: spin 1.5s linear infinite;
 }
@@ -247,7 +247,7 @@ i:hover{
     /* Loader css */
 
     .preloader{
-        width: 15vw;
-        height: 15vw;
+        width: 10vw;
+        height: 10vw;
     }
 }
