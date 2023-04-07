@@ -7,7 +7,7 @@
 - **JS**
 - **Bootstrap Icon**
 
-### [Live Demo](https://rzvkoli.github.io/Musicplayer/)
+### [Live Demo](https://rzvkoli.github.io/musicPlayer/)
 
 ## Preview
 ![00](https://user-images.githubusercontent.com/100797809/210571945-293114e7-34d3-48c5-abba-6a083bdb310c.png)
